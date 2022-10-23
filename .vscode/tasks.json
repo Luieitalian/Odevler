@@ -11,7 +11,7 @@
 				"-std=c++20",
 				"${file}",
 				"-o",
-				"${fileDirname}\\Odev2.exe"
+				"${fileDirname}\\Odev3.exe"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
