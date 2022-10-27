@@ -11,7 +11,7 @@
 				"-std=c++20",
 				"${file}",
 				"-o",
-				"${fileDirname}\\Odev7.exe"
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
@@ -21,6 +21,6 @@
 			],
 			"group": "build",
 			"detail": "derleyici: C:\\mingw64\\bin\\g++.exe"
-		}
+		},
 	]
 }
