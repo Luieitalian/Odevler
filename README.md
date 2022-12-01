@@ -1,3 +1,3 @@
-# Odevler
+# Ödevler
 
-Genel çalışma alanı...
+Ödevler*
