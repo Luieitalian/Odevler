@@ -15,7 +15,7 @@ int main(){
 
     if(sayi > 0){
 
-        while (sayi_0 != 0){
+        while (sayi_0 != 0){ 
             rakSayisi++;
             sayi_0 /=10;
         }
