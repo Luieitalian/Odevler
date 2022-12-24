@@ -1,0 +1,20 @@
+1 Tavuk
+2 Yoğurt Su
+3 Pirinç SıvıYağ
+4 Bulgur SıvıYağ
+5 Tarhana Su
+6 Makarna Su
+7 KırmızıMercimek Pirinç Bulgur Nane Soğan Salça Su    
+8 Kıyma Yufka Soğan
+9 Hamur Susam
+10 Hamur
+11 Hamur Peynir  
+12 Hamur Kıyma SıvıYağ
+13 Yeşillik Domates Soğan
+14 Köfte Peynir Ekmek
+15 Sucuk Peynir Ekmek        
+16 Sucuk Mantar Mısır Hamur Peynir
+17 Hamur Kıyma Peynir
+18 Kola
+19 Balık SıvıYağ Patates
+20 Gazoz
